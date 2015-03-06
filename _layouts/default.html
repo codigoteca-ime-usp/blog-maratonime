@@ -73,7 +73,7 @@
     </div> 
     {% comment %} site-wrapper {% endcomment %}
 
-    <script src="{{ site.baseurl }}/js/main.js"></script>
+    <script src="{{ site.baseurl| split: '/' | join:'/' }}/js/main.js"></script>
     {% comment %} Google Analytics {% endcomment %}
     {% if site.ga_tracking_id and site.ga_domain %}
       <script>
