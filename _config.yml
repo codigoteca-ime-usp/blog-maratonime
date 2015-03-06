@@ -8,7 +8,7 @@ description: "Apoio à Maratona de Programação e Olimpíadas de Conhecimento"
 author: "maratonIME"
 
 url: "http://www.ime.usp.br/~maratonime"
-baseurl: ""
+baseurl: "blog-maratonime"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
 author-bio: "O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento."
