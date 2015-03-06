@@ -12,6 +12,10 @@ header {
     margin: 0;
     padding: 0;
     font-weight: normal;
+    img {
+        max-height: 400px;
+        max-width: 40%;
+    }
     a {
       color: $text-color;
       text-decoration: none;
@@ -54,15 +58,18 @@ header {
 } // end .h-wrap
 
 .menu-icon {
-  @extend %padding-large;
+  padding: 2.4em;
+  padding-bottom: 2.6em;
   position: absolute;
   top: 0;
   right: 0;
   cursor: pointer;
   z-index: 200;
+  line-height: .2em;
   &:hover {
     opacity: 1;
   }
+  background-color: lighten($main-color, 3%);
   
   .lines {
     display: inline-block;

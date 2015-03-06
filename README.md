@@ -1,3 +1,6 @@
+# maratonIME
+Esse é um blog feito na plataforma Jekyll baseado no tema hikari. Segue o README original do projeto hikari:
+
 # hikari
 
 Hikari is an open-source [Jekyll](http://jekyllrb.com) theme perfect for dev-savvy bloggers who wants to get started with Jekyll in a very minimal way. 
