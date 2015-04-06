@@ -1,106 +1,41 @@
+---
+layout: default
+title: Homepage
+---
 
-<!DOCTYPE HTML>
+<div id="home">
+  <ul class="posts">
+    {% for post in paginator.posts %}
+    <li itemscope itemtype="http://schema.org/BlogPosting">
+      <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
+        <div class="p-wrap">
+          <time datetime="{{ post.date | date_to_xmlschema }}"
+              itemprop="datePublished">
+            {{ post.date | date_to_string }}
+          </time>
+          <p itemprop="name headline">{{ post.title }}</p>
+        </div>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
 
-<html>
-	<head>
-		<meta charset="UTF-8">
-		<title>MaratonIME</title>
-		<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-	</head>
-
-	<script>
-		//Google Analytics - Analysing your personal data since 1998!
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-		ga('create', 'UA-48072734-1', 'usp.br');
-		ga('send', 'pageview');
-	</script>
-
-	<body>
-		<div id="fb-root"></div>
-
-		<script>
-			//Facebook Like Script - Arr!
-			(function(d, s, id) {
-				var js, fjs = d.getElementsByTagName(s)[0];
-				if (d.getElementById(id)) return;
-				js = d.createElement(s); js.id = id;
-				js.src = "//connect.facebook.net/en_PI/all.js#xfbml=1";
-				fjs.parentNode.insertBefore(js, fjs);
-			}(document, 'script', 'facebook-jssdk'));
-		</script>
-
-		<img src="resources/images/banner.png" align="middle">		
-
-		<img src="resources/images/logo.png" style="float:left;">
-		<h1>MaratonIME</h1>
-		<h2>Apoio à Maratona de Programação e Olimpíadas de Conhecimento.</h2>
-		<br/>
-
-		<p>
-			O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para
-			a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira
-			de Matemática (OBM) e outras Olimpíadas de Conhecimento.
-		</p>
-
-		<p>
-			Os treinos que oferecemos são voltados à Maratona de Programação e Olimpíada Brasileira de
-			Informática. Estas reuniões são destinadas tanto a novatos na área da computação quanto
-			a olimpíadas e veteranos da Maratona.
-		</p>
-
-		<p>
-			Para quem não teve nenhum ou superficial contato com programação, oferecemos aulas durante
-			esses treinos, na qual ensinamos noções básicas de programação e sintaxe da linguagem C. 
-			Conforme o aluno vai progredindo vamos introduzindo novos conteúdos de caráter mais computacional
-			por meio de problemas clássicos de lógica e matemática, foco da OBI.
-		</p>
-
-		<p>
-			Aqueles que já tem maior contato com problemas computacionais, também são bem-vindos.
-			Apresentamos problemas de ênfase mais teórica, típica da Maratona de Programação, com
-			abordagens práticas a assuntos como Programação Dinâmica, Estrutura de Dados e Grafos.
-		</p>
-
-		<br/>
-
-		<h3>Horários de treinos e aulas (a partir do dia07/08/2014):</h3>
-		<ul>
-			<li>Sextas:</li>
-			<ul>
-				<li>Local: Sala 6 do CEC - Bloco B</li>
-				<ul>
-					<li>14h00 às 19h00</li>
-				</ul>
-			</ul>
-		</ul>
-		<br/>
-
-		<h3>P&aacute;gina da Seletiva do IME-USP 2014 (inscri&ccedil;&otilde;es abertas at&eacute 13/08)</h3>
-		<ul>
-			<li><a href="http://www.ime.usp.br/~cef/XVIIImaratona/">Seletiva IME-USP</a></li>
-		</ul>
-                
-		<h3>Por que n&atilde;o se usa mais h&eacute;lio na Seletiva do IME-USP?</h3>
-		<ul>
-		</ul>
-			<li><a href="http://f5.folha.uol.com.br/estranho/1067310-balao-de-festa-de-aniversario-ameaca-gas-helio-de-extincao.shtml">f5.folha.uol.com.br</a></li>
-			<li><a href="http://www.jornaldaciencia.org.br/Detalhe.jsp?id=73027">jornaldaciencia.org.br</a></li>
-
-
-		<h3>Links relacionados:</h3>
-		<ul>
-			<li><a href="http://maratona.ime.usp.br/">Maratona de Programação</a></li>
-			<li><a href="http://olimpiada.ic.unicamp.br/">Olimpiada Brasileira de Informática</a></li>
-			<li><a href="http://www.obm.org.br/">Olimpíada Brasileira de Matemática</a></li>
-		</ul>
-
-		<br/>
-
-		<div class="fb-like" data-href="https://www.facebook.com/maratonIME" data-width="500" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
-	</body>
-
-</html>
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.next_page %}
+  <a href="/page/{{paginator.next_page}}" class="older">Older</a>
+  {% else %}
+  <span class="next">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+    <a href="/" class="newer">Newer</a>
+    {% else %}
+    <a href="/page/{{paginator.previous_page}}" class="newer">Newer</a>
+    {% endif %}
+  {% else %}
+  <span class="previous">Newer</span>
+  {% endif %}
+</div>
+{% endif %}

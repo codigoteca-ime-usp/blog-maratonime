@@ -1,0 +1,39 @@
+# Title of your blog; shows in the header
+name: "maratonIME"
+
+# Description of your content (will only be used on Google Search)
+description: "Apoio à Maratona de Programação e Olimpíadas de Conhecimento"
+
+# Your name. Will show in your footer + sidebar 
+author: "maratonIME"
+
+url: "http://www.ime.usp.br/~maratonime"
+baseurl: "/blog-maratonime"
+
+# A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
+author-bio: "O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento."
+
+# Social Accounts (mine, as placeholders)
+
+github: codigoteca-ime-usp
+facebook: maratonIME
+
+# Google Analytics (you may want to changes these with yours or even delete :)
+
+#ga_domain: m3xm.github.io
+#ga_tracking_id: UA-47727049-1
+
+# Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+
+paginate: 10
+paginate_path: "/page/:num"
+
+# SCSS
+
+sass:
+  sass_dir: _scss
+  style: :compressed
