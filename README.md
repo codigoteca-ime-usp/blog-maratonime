@@ -1,86 +1,63 @@
 # maratonIME
-Esse é um blog feito na plataforma Jekyll baseado no tema hikari. Segue o README original do projeto hikari:
+Esse é um blog feito na plataforma [Jekyll](http://jekyllrb.com) baseado no tema [hikari](https://github.com/m3xm/hikari-for-Jekyll). Para o apoio às maratonas de programação no IME-USP.
 
-# hikari
+# Contribuição
+Foi criado um ambiente um pouco diferente para se ter uma forma ágil de enviar código novo ao [servidor](http://www.ime.usp.br/~maratona). Por isso, o setup é um pouco diferente ao de um Jekyll normal. 
 
-Hikari is an open-source [Jekyll](http://jekyllrb.com) theme perfect for dev-savvy bloggers who wants to get started with Jekyll in a very minimal way. 
+## Setup
+Para instalar o ambiente do site no seu computador, siga os seguintes passos 
 
-- SCSS!
-- Responsive
-- Lightweight (no JS library has been abused here)
+1) Baixe o código fonte do site, onde devem ser feitas as alterações  
+```
+git clone https://github.com/codigoteca-ime-usp/blog-maratonime.git
+```  
+2) Para entrar na pasta do projeto  
+```
+cd blog-maratonime
+```
+3) Isso é muito importante, assim você pode atualizar facilmente o conteúdo do site online.
+```
+git clone https://github.com/codigoteca-ime-usp/blog-maratonime.git _site`  
+```
+4) Entre na pasta de Build
+```
+cd _site
+```
+5) Esse comando faz com que os dois passos acima tenham algum sentido.  
+```
+git checkout built
+```  
 
-![preview](https://dl.dropboxusercontent.com/u/7539881/Hikari/hikari-screenshot.png)
+Agora é só editar o código em `blog-maratonime` e ser feliz :D.
 
-![preview](https://dl.dropboxusercontent.com/u/7539881/Hikari/hikari-screenshot-2.png)
+## Onde Contribuir?
+O site é baseado em [Jekyll](http://jekyllrb.com), que é um software escrito em Ruby com os quais é possível montar, de forma rápida e fácil um blog estático com conteúdo feito em [Markdown](http://daringfireball.net/projects/markdown/).  
+Para escrever um texto, basta adicionar conteúdo à pasta '\_posts' em forma de Markdown.  
+Para alterar o layout e outras coisas sobre o site, aprenda Jekyll :).
 
-![preview](https://dl.dropboxusercontent.com/u/7539881/Hikari/hikari-screenshot-3.png)
+## E depois?
+Depois de fazer as alterações no código em `blog-maratonime`, você deve construir o site com o Jekyll. Para isso, é necessário tê-lo instalado. Se você tem, siga os seguintes passos:
+1) Construa o código estático do site:
+```
+jekyll build
+```
+2) Teste suas alterações, veja se está tudo como esperava, commite o código alterado e atualize a branch master:
+```
+git add (arquivos editados)
+git commit -m "(mensagem)"
+git push origin master
+```  
+3) Para atualizar o conteúdo do site online, primeiro faça o commit do código compilado na branch built e atualize no repositório do GitHub.
+```
+cd built
+git add -A
+git commit -m "<alguma mensagem>"
+git push origin built
+```
+4) Vá até a pasta do projeto online e atualize o código compilado:  
+```
+git pull origin built
+```
 
-[View demo](http://m3xm.github.io/hikari-for-Jekyll)
-
-
-### How to install
-
-1. Clone this repo
-2. Customize \_config.yml and replace all dummy posts by yours
-3. Change your profile picture in `~/assets/img/avatar.jpg`
-3. Publish (I recommend [GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages), it's free)
-
-
-### Development
-
-- `master` for development and pull requests.
-- `gh-pages` for the demo page; don't bother.
-
-
-#### Running locally
-
-1. Clone this repo
-2. Install required dependencies with [Bundler](http://bundler.io/)
-
-        bundle install
-3. Run the site with Jekyll
-
-        bundle exec jekyll serve --watch
-4. Visit the site at [http://localhost:4000](http://localhost:4000)
-
-
-### Author
-
-**Mathieu Mayer-Mazzoli**
-- <http://m3xm.github.io>
-- <http://twitter.com/mx3m>
-- <http://www.dribbble.com/m3xm>
-
-
-### Main Contributors
-
-**Ross Allen**
-- <https://github.com/ssorallen>
-
-**Julien Rousseau**
-- <https://github.com/evarouss>
-
-
-### License
-
-The MIT License (MIT)
-
-Copyright (c) 2015 Mathieu Mayer-Mazzoli
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+# Sucesso
+Esse ambiente foi montado e pensado por [victorsenam](http://github.com/victorsenam). Entre em contato para qualquer ajuda.
