@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Links Relacionados"
-date: 2015-06-03 18:21:00
+date: 2015-03-06 18:21:00
 ---
 
 - [Página da Seletiva IME-USP](http://www.ime.usp.br/~cef/XVIIImaratona/)
