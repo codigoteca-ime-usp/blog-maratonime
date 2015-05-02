@@ -7,7 +7,7 @@ description: "Apoio à Maratona de Programação e Olimpíadas de Conhecimento"
 # Your name. Will show in your footer + sidebar 
 author: "maratonIME"
 
-url: "http://www.ime.usp.br/~maratonime"
+url: "http://www.ime.usp.br/~maratona"
 baseurl: "/~maratona"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words. 
@@ -37,3 +37,9 @@ paginate_path: "/page/:num"
 sass:
   sass_dir: _scss
   style: :compressed
+
+# Collections
+collections:
+  provas:
+    output: true
+    permalink: /provas/:path/
