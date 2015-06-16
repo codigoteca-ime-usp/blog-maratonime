@@ -9,10 +9,10 @@ date: 2015-06-15 21:44:00
 
 Chegou a hora! Estão abertas as inscrições para a Seletiva organizada pelo IME que vai acontecer no dia 15 de agosto. Os cinco times vencedores irão representar a USP (Campus Butantã) na [Maratona de Programação da SBC](http://maratona.ime.usp.br/) no dia 12 de setembro e ajudar a USP a chegar cada vez mais longe na programação competitiva.  
   
-Para participar basta se inscrever:  
+Para participar basta se inscrever [nesse formulário]().
 - **Fechamento das Inscrições:** 12 de agosto  
 - **Data da Seletiva:** 15 de agosto  
-- **Local de Inscrição:** IME Bloco B - CEC  
+- **Local da Seletiva:** IME Bloco B - CEC  
 
 ## A Maratona de Programação
 A Maratona de Programação é um evento da Sociedade Brasileira de Computação (SBC) destinada a alunos de cursos de graduação e início de pós-graduação na área de Computação e afins. Esta competição é baseada na habilidade de se resolver problemas com algoritmos e código sob pressão, com velocidade, de forma correta e eficiente, promovendo a criatividade e o trabalho em equipe. As equipes são compostas por três alunos, que tentam, durante 5 horas, resolver o maior número possível de problemas propostos em menor tempo errando o mínimo possível.  
