@@ -9,12 +9,12 @@ date: 2015-06-15 21:44:00
 
 Chegou a hora! Estão abertas as inscrições para a Seletiva organizada pelo IME que vai acontecer no dia 15 de agosto. Os cinco times vencedores irão representar a USP (Campus Butantã) na [Maratona de Programação da SBC](http://maratona.ime.usp.br/) no dia 12 de setembro e ajudar a USP a chegar cada vez mais longe na programação competitiva.  
   
-Para participar basta se inscrever.
+Para participar basta se inscrever.  
 - **Fechamento das Inscrições:** 12 de agosto  
 - **Times que vão competir por vagas:** [https://docs.google.com/forms/d/1N5NYgqzhHe9AFFKZnNpucLrQrLhrDtG5rvF7YQB50e8/viewform](https://docs.google.com/forms/d/1N5NYgqzhHe9AFFKZnNpucLrQrLhrDtG5rvF7YQB50e8/viewform)
 - **Times que NÃO vão competir por vagas:** [https://docs.google.com/forms/d/1-IknATxaRIl8br0oLNhS-zBwSmjlmitDfZu8hgDXWXU/viewform](https://docs.google.com/forms/d/1-IknATxaRIl8br0oLNhS-zBwSmjlmitDfZu8hgDXWXU/viewform)
 
-Informações Sobre a Prova:
+Informações Sobre a Prova:  
 - **Data da Seletiva:** 15 de agosto  
 - **Local da Seletiva:** IME Bloco B - CEC  
 
