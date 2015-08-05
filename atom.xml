@@ -1,10 +1,93 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+
+
+
+
+<!-- ====================================================================== =-
+  -=     NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE     =-
+  -=     NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE     =-
+  -=                                                                        =-
+  -=  A não ser que esse seja um arquivo dentro de uma pasta _layouts de    =- 
+  -=  um projeto Jekyll, qualquer alteração nesse código será sobrescrita   =-
+  -=  no próximo build. Por favor, leia o README.md contido nessa pasta     =-
+  -=  para instruções sobre como contribuir                                 =-
+  -=                                                                        =-
+  -=     NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE     =-
+  -=     NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE - NÃO ALTERE     =-
+  -= ====================================================================== --!>
+
+
+
+
+
+
+
+  <head>
+      <title>maratonIME - Apoio à Maratona de Programação e Olimpíadas de Conhecimento</title>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <meta http-equiv="content-language" content="en-gb" />
+      <meta name="description" content="Apoio à Maratona de Programação e Olimpíadas de Conhecimento">
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+      <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet" type="text/css">
+      <link rel="stylesheet" type="text/css" href="/~maratona/css/main.css" />
+      <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+  </head>
+
+  <body>
+    <!--[if lt IE 7]>
+        <p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+    <![endif]-->
+
+    <div class="off-canvas">
+    <!--
+      <figure class="avatar">
+        <img src="/~maratona/assets/img/avatar.jpg" alt="Picture" title="That's me, maratonIME.">
+      </figure>
+      <div class="bio">
+          <h1>maratonIME</h1>
+          <p>O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento.</p>
+      </div>
+    -->
+      <nav>
+        <h6>Redes Sociais</h6>
+        <ul>
+          
+          <li><a target="_blank" href="https://www.facebook.com/maratonIME">Facebook</a></li>
+          
+          
+          
+          <li><a target="_blank" href="https://www.github.com/codigoteca-ime-usp/blog-maratonime">Github</a></li>
+          
+          
+          
+        </ul>
+      </nav>
+    </div>
+
+
+    <div class="site-wrapper">
+
+      <header>
+        <div class="h-wrap">
+          <h1 class="title"><a href="/~maratona/" title="Back to Homepage"><img src="/~maratona/assets/img/logo.jpg" alt="maratonIME"></img></a></h1>
+          <a class="menu-icon" title="Links"><span class="lines"></span></a>
+        </div>
+      </header>
+
+      <main>
+        <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>maratonIME</title>
   <id>http://www.ime.usp.br/~maratona</id>
   <link href="http://www.ime.usp.br/~maratona" />
   <link href="http://www.ime.usp.br/~maratona/atom.xml" rel="self" />
-  <updated>2015-08-04T22:21:01-03:00</updated>
+  <updated>2015-08-04T22:54:22-03:00</updated>
   <rights>Copyright 2014, maratonIME</rights>
   <author>
     <name>maratonIME</name>
@@ -46,12 +129,12 @@ Boa sorte!&lt;/p&gt;
   
     <entry>
       <title>Simulado de Calouros 2015</title>
-      <link href="http://www.ime.usp.br/~maratona/2015/04/16/simulado-de-calouros/" />
+      <link href="http://www.ime.usp.br/~maratona/default/2015/04/16/simulado-de-calouros/" />
       <summary type="html">&lt;p&gt;Se você achou que a estréia da quinta temporada de Game of Thrones era imperdível espere pelo simulado épico do MaratonIME, que será realizado no dia 24/04 (sexta-feira) as 14h no CEC. A prova foi feita especialmente para vocês bixes, com problemas que podem ser resolvidos usando MAC110 (mais fácil que sobreviver uma temporada nas mãos do George RR Martin) para que vocês possam sentir o gostinho da competição que só os fortes participam, aquela que dispensa comentários, a mais que fabulosa Maratona de Programação. Jon Snow não sabe de nada, mas talvez você saiba, monte seu times de 3 pessoas e se inscrevam no &lt;a href=&quot;https://docs.google.com/forms/d/1ZO5-sHRgWdurx_BPN-45knWhV6W2R69s8sD3JGHZJF0/viewform?c=0&amp;amp;w=1&quot;&gt;formulário online&lt;/a&gt;.&lt;br /&gt;
 Não se preocupem com o almoço, esse é por nossa conta, e saibam que teremos prêmios pomposos para os primeiros colocados. Qualquer dúvida, segue aqui o &lt;a href=&quot;https://www.facebook.com/events/1573774266207067/&quot;&gt;link do evento&lt;/a&gt;. Não esqueçam de confirmar presença para comprarmos a quantidade certa de comida (Valar Comheris, todos os homens devem comer). &lt;br /&gt;
 As vagas são limitadas devido a capacidade do CEC, a preferência será dada por ordem de inscrição. Então corram, e que a força esteja com vocês. Não, espera… acho que é Winter is coming.   &lt;/p&gt;
 </summary>
-      <id>http://www.ime.usp.br/~maratona/2015/04/16/simulado-de-calouros/</id>
+      <id>http://www.ime.usp.br/~maratona/default/2015/04/16/simulado-de-calouros/</id>
       <updated>2015-04-16T15:19:00-03:00</updated>
       <author>
         <name>maratonIME</name>
@@ -60,7 +143,7 @@ As vagas são limitadas devido a capacidade do CEC, a preferência será dada po
   
     <entry>
       <title>Links Relacionados</title>
-      <link href="http://www.ime.usp.br/~maratona/2015/03/06/links-relacionados/" />
+      <link href="http://www.ime.usp.br/~maratona/default/2015/03/06/links-relacionados/" />
       <summary type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.ime.usp.br/~cef/XVIIImaratona/&quot;&gt;Página da Seletiva IME-USP&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://maratona.ime.usp.br/&quot;&gt;Maratona de Programação&lt;/a&gt;&lt;/li&gt;
@@ -68,7 +151,7 @@ As vagas são limitadas devido a capacidade do CEC, a preferência será dada po
   &lt;li&gt;&lt;a href=&quot;http://www.obm.org.br/&quot;&gt;Olimpíada Brasileira de Matemática&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </summary>
-      <id>http://www.ime.usp.br/~maratona/2015/03/06/links-relacionados/</id>
+      <id>http://www.ime.usp.br/~maratona/default/2015/03/06/links-relacionados/</id>
       <updated>2015-03-06T15:21:00-03:00</updated>
       <author>
         <name>maratonIME</name>
@@ -77,13 +160,13 @@ As vagas são limitadas devido a capacidade do CEC, a preferência será dada po
   
     <entry>
       <title>Por que não se usa mais hélio na Seletiva IME-USP?</title>
-      <link href="http://www.ime.usp.br/~maratona/2015/03/06/helio-na-seletiva/" />
+      <link href="http://www.ime.usp.br/~maratona/default/2015/03/06/helio-na-seletiva/" />
       <summary type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://f5.folha.uol.com.br/estranho/1067310-balao-de-festa-de-aniversario-ameaca-gas-helio-de-extincao.shtml&quot;&gt;Matéria da Folha&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.jornaldaciencia.org.br/Detalhe.jsp?id=73027&quot;&gt;Matéria do Jornal da Ciência&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </summary>
-      <id>http://www.ime.usp.br/~maratona/2015/03/06/helio-na-seletiva/</id>
+      <id>http://www.ime.usp.br/~maratona/default/2015/03/06/helio-na-seletiva/</id>
       <updated>2015-03-06T15:19:00-03:00</updated>
       <author>
         <name>maratonIME</name>
@@ -92,7 +175,7 @@ As vagas são limitadas devido a capacidade do CEC, a preferência será dada po
   
     <entry>
       <title>O MaratonIME</title>
-      <link href="http://www.ime.usp.br/~maratona/2015/03/06/o-maratonime/" />
+      <link href="http://www.ime.usp.br/~maratona/default/2015/03/06/o-maratonime/" />
       <summary type="html">&lt;p&gt;O MaratonIME visa o oferecimento de aulas, treinos e divulgação de materiais de apoio para a Maratona de Programação, Olimpíada Brasileira de Informática (OBI), Olimpíada Brasileira de Matemática (OBM) e outras Olimpíadas de Conhecimento.&lt;/p&gt;
 
 &lt;p&gt;Os treinos que oferecemos são voltados à Maratona de Programação e Olimpíada Brasileira de Informática. Estas reuniões são destinadas tanto a novatos na área da computação quanto a olimpíadas e veteranos da Maratona.&lt;/p&gt;
@@ -101,7 +184,7 @@ As vagas são limitadas devido a capacidade do CEC, a preferência será dada po
 
 &lt;p&gt;Aqueles que já tem maior contato com problemas computacionais, também são bem-vindos. Apresentamos problemas de ênfase mais teórica, típica da Maratona de Programação, com abordagens práticas a assuntos como Programação Dinâmica, Estrutura de Dados e Grafos.&lt;/p&gt;
 </summary>
-      <id>http://www.ime.usp.br/~maratona/2015/03/06/o-maratonime/</id>
+      <id>http://www.ime.usp.br/~maratona/default/2015/03/06/o-maratonime/</id>
       <updated>2015-03-06T15:17:00-03:00</updated>
       <author>
         <name>maratonIME</name>
@@ -109,3 +192,19 @@ As vagas são limitadas devido a capacidade do CEC, a preferência será dada po
     </entry>
   
 </feed>
+
+      </main>
+
+      <footer>
+        <small>Powered by Jekyll - Theme: <a href="https://github.com/m3xm/hikari-for-Jekyll">hikari</a> - &copy; maratonIME</small>
+      </footer>
+
+    </div> 
+    
+
+    <script src="/~maratona/js/main.js"></script>
+    
+    
+
+  </body>
+</html>
