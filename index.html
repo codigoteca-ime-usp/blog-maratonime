@@ -8,7 +8,7 @@ title: Homepage
     {% for post in paginator.posts %}
     <li itemscope itemtype="http://schema.org/BlogPosting">
       <a href="{{ site.baseurl }}{{ post.url }}" itemprop="url">
-        <div class="p-wrap">
+        <div class="p-wrap {{ post.category }}-post">
           <time datetime="{{ post.date | date_to_xmlschema }}"
               itemprop="datePublished">
             {{ post.date | date_to_string }}

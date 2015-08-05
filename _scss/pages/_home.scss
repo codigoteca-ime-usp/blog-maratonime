@@ -37,6 +37,13 @@
       }
     } // end .p-wrap
 
+    .p-wrap.important-post {
+      background: $important-color;
+      time {
+          color: darken($important-color, 20%);
+        }
+    }
+
     time {
       color: darken($main-color, 20%); 
       padding-right: $spacing-s;

@@ -43,3 +43,13 @@ collections:
   provas:
     output: true
     permalink: /provas/:path/
+
+# Posts Front Matter Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      category: "default"
+      layout: "default"
+    
