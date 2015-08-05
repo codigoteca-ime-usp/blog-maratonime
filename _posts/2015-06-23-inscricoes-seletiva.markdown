@@ -11,8 +11,8 @@ Chegou a hora! Estão abertas as inscrições para a Seletiva organizada pelo IM
   
 Para participar basta se inscrever.  
 - **Fechamento das Inscrições:** 12 de agosto  
-- **Times que vão competir por vagas:** [https://docs.google.com/forms/d/1N5NYgqzhHe9AFFKZnNpucLrQrLhrDtG5rvF7YQB50e8/viewform](https://docs.google.com/forms/d/1N5NYgqzhHe9AFFKZnNpucLrQrLhrDtG5rvF7YQB50e8/viewform)
-- **Times que NÃO vão competir por vagas:** [https://docs.google.com/forms/d/1-IknATxaRIl8br0oLNhS-zBwSmjlmitDfZu8hgDXWXU/viewform](https://docs.google.com/forms/d/1-IknATxaRIl8br0oLNhS-zBwSmjlmitDfZu8hgDXWXU/viewform)
+- **Times que vão competir por vagas:** [Times já inscritos](https://docs.google.com/spreadsheets/d/1lTA7sCAEu5VJC2SzVhraob5Szuzi-6DVfAshLL4R44U/pubhtml?gid=1246609276&single=true) - [Formulário](https://docs.google.com/forms/d/1N5NYgqzhHe9AFFKZnNpucLrQrLhrDtG5rvF7YQB50e8/viewform)  
+- **Times que NÃO vão competir por vagas:** [Formulário](https://docs.google.com/forms/d/1-IknATxaRIl8br0oLNhS-zBwSmjlmitDfZu8hgDXWXU/viewform)  
 
 Informações Sobre a Prova:  
 - **Data da Seletiva:** 15 de agosto  
