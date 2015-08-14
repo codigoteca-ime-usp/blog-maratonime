@@ -17,7 +17,7 @@ cd blog-maratonime
 ```
 3) Isso é muito importante, assim você pode atualizar facilmente o conteúdo do site online.
 ```
-git clone https://github.com/codigoteca-ime-usp/blog-maratonime.git _site`  
+git clone https://github.com/codigoteca-ime-usp/blog-maratonime.git _site  
 ```
 4) Entre na pasta de Build
 ```
