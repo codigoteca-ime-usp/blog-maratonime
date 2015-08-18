@@ -24,6 +24,12 @@ A Maratona de Programação é um evento da Sociedade Brasileira de Computação
 Este evento é parte das classificatórias regionais para as finais mundiais do concurso de programação da ACM, o [ACM-ICPC](http://icpc.baylor.edu) (Association for Computing Machinery International Collegiate Programming Contest). Os melhores colocados na final brasileira se classificam para esta final mundial.  
 
 ## A Seletiva
+Este ano, a seletiva tem o apoio e patrocínio de:
+
+[<img src="{{ site.baseurl }}/assets/img/caelum.png" style="width:30%; height:30%">](http://www.caelum.com.br/)
+[<img src="{{ site.baseurl }}/assets/img/tecsinapse.png" style="width:30%; height:30%">](http://www.tecsinapse.com.br/)
+[<img src="{{ site.baseurl }}/assets/img/tfg.png" style="width:30%; height:30%">](http://www.tfgco.com/)
+
 Serão classificados para a Maratona da SBC cinco times seguindo o seguinte critério: Os três melhores times se classificam, depois deles, o melhor time ainda não classificado formado somente por pessoas do primeiro ou segundo ano da graduação e, depois, o melhor time ainda não classificado formado somente por alunos do primeiro ano de graduação.  
 Para poder se inscrever, seu time deve ser elegível pelos [critérios da SBC](http://maratona.ime.usp.br/regras15.html). Os times são formados por três alunos que deverão ter iniciado seus estudos universitários no ano de 2011 ou posterior e ter nascido no ano de 1992 ou posterior.  
 Boa sorte!
