@@ -87,7 +87,7 @@
   <id>http://www.ime.usp.br/~maratona</id>
   <link href="http://www.ime.usp.br/~maratona" />
   <link href="http://www.ime.usp.br/~maratona/atom.xml" rel="self" />
-  <updated>2015-08-18T15:26:19-03:00</updated>
+  <updated>2015-08-18T19:01:55-03:00</updated>
   <rights>Copyright 2014, maratonIME</rights>
   <author>
     <name>maratonIME</name>
@@ -116,9 +116,9 @@ Este evento é parte das classificatórias regionais para as finais mundiais do 
 &lt;h2 id=&quot;a-seletiva&quot;&gt;A Seletiva&lt;/h2&gt;
 &lt;p&gt;Este ano, a seletiva tem o apoio e patrocínio de:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;http://www.caelum.com.br/&quot;&gt;&lt;img src=&quot;/~maratona/assets/img/caelum.png&quot; style=&quot;width:30%; height:30%&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://www.tecsinapse.com.br/&quot;&gt;&lt;img src=&quot;/~maratona/assets/img/tecsinapse.png&quot; style=&quot;width:30%; height:30%&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;http://www.tfgco.com/&quot;&gt;&lt;img src=&quot;/~maratona/assets/img/tfg.png&quot; style=&quot;width:30%; height:30%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.caelum.com.br/&quot;&gt;&lt;img src=&quot;/~maratona/assets/post_files/2015-06-23-inscricoes-seletiva/caelum.png&quot; style=&quot;width:30%; height:30%&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.tecsinapse.com.br/&quot;&gt;&lt;img src=&quot;/~maratona/assets/post_files/2015-06-23-inscricoes-seletiva/tecsinapse.png&quot; style=&quot;width:30%; height:30%&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;http://www.tfgco.com/&quot;&gt;&lt;img src=&quot;/~maratona/assets/post_files/2015-06-23-inscricoes-seletiva/tfg.png&quot; style=&quot;width:30%; height:30%&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Serão classificados para a Maratona da SBC cinco times seguindo o seguinte critério: Os três melhores times se classificam, depois deles, o melhor time ainda não classificado formado somente por pessoas do primeiro ou segundo ano da graduação e, depois, o melhor time ainda não classificado formado somente por alunos do primeiro ano de graduação.&lt;br /&gt;
 Para poder se inscrever, seu time deve ser elegível pelos &lt;a href=&quot;http://maratona.ime.usp.br/regras15.html&quot;&gt;critérios da SBC&lt;/a&gt;. Os times são formados por três alunos que deverão ter iniciado seus estudos universitários no ano de 2011 ou posterior e ter nascido no ano de 1992 ou posterior.&lt;br /&gt;
@@ -128,6 +128,32 @@ Boa sorte!&lt;/p&gt;
 </summary>
       <id>http://www.ime.usp.br/~maratona/seletiva-2015</id>
       <updated>2015-06-23T18:44:00-03:00</updated>
+      <author>
+        <name>maratonIME</name>
+      </author>
+    </entry>
+  
+    <entry>
+      <title>Resultados do Simulado de Calouros 2015</title>
+      <link href="http://www.ime.usp.br/~maratona/default/2015/04/27/resultado-simulado-1/" />
+      <summary type="html">&lt;p&gt;Com a participação de 9 times, o simulado foi um sucesso!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/~maratona/assets/post_files/2015-04-27-resultado-simulado-1/simulado_2015.jpg&quot; alt=&quot;Foto simulado&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todos os times resolveram pelo menos 4 de um total de
+11 problemas. O placar e problemas do simulado podem ser
+acessados pelos links abaixo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-04-27-resultado-simulado-1/simulado_2015-scoreboard.pdf&quot;&gt;Placar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-04-27-resultado-simulado-1/simulado_2015-statistics.pdf&quot;&gt;Estatísticas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-04-27-resultado-simulado-1/simulado_2015.pdf&quot;&gt;Prova&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-04-27-resultado-simulado-1/simulado_2015-comentarios.pdf&quot;&gt;Comentários sobre os problemas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-04-27-resultado-simulado-1/simulado_2015-in-out.zip&quot;&gt;Entradas e saídas dos problemas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      <id>http://www.ime.usp.br/~maratona/default/2015/04/27/resultado-simulado-1/</id>
+      <updated>2015-04-27T15:19:00-03:00</updated>
       <author>
         <name>maratonIME</name>
       </author>
