@@ -87,11 +87,45 @@
   <id>http://www.ime.usp.br/~maratona</id>
   <link href="http://www.ime.usp.br/~maratona" />
   <link href="http://www.ime.usp.br/~maratona/atom.xml" rel="self" />
-  <updated>2015-08-18T19:01:55-03:00</updated>
+  <updated>2015-08-18T19:37:14-03:00</updated>
   <rights>Copyright 2014, maratonIME</rights>
   <author>
     <name>maratonIME</name>
   </author>
+  
+    <entry>
+      <title>Resultados da Seletiva 2015</title>
+      <link href="http://www.ime.usp.br/~maratona/default/2015/08/18/resultados-seletiva/" />
+      <summary type="html">&lt;p&gt;A Seletiva 2015 da USP para a Maratona de Programação teve a participação
+de 15 times competido por uma das 5 vagas para a Primeira Fase da Maratona
+de Programação que ocorrerá em 12 de setembro de 2015.
+Também participaram 7 times que não competiam pelas vagas, por não serem
+mais elegíveis ou por não serem de alunos da USP.&lt;/p&gt;
+
+&lt;h2 id=&quot;times-classificados&quot;&gt;Times classificados&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Carteado&lt;/li&gt;
+  &lt;li&gt;Sua Mãe&lt;/li&gt;
+  &lt;li&gt;Filhos de Turing&lt;/li&gt;
+  &lt;li&gt;ThunderMaratona (vaga para alunos do primeiro ou segundo ano)&lt;/li&gt;
+  &lt;li&gt;Nao é a São Silvestre? (vaga para alunos do primeiro ano)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;placar-estatsticas-problemas-etc&quot;&gt;Placar, estatísticas, problemas, etc.&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/detailscore.html&quot;&gt;Placar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/stat.html&quot;&gt;Estatísticas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015.pdf&quot;&gt;Prova&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf&quot;&gt;Comentários sobre os problemas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.zip&quot;&gt;Entradas e saídas dos problemas&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</summary>
+      <id>http://www.ime.usp.br/~maratona/default/2015/08/18/resultados-seletiva/</id>
+      <updated>2015-08-18T15:19:00-03:00</updated>
+      <author>
+        <name>maratonIME</name>
+      </author>
+    </entry>
   
     <entry>
       <title>Estão Abertas as Inscrições para a Seletiva 2015</title>
