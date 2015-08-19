@@ -87,7 +87,7 @@
   <id>http://www.ime.usp.br/~maratona</id>
   <link href="http://www.ime.usp.br/~maratona" />
   <link href="http://www.ime.usp.br/~maratona/atom.xml" rel="self" />
-  <updated>2015-08-18T19:37:14-03:00</updated>
+  <updated>2015-08-19T19:01:05-03:00</updated>
   <rights>Copyright 2014, maratonIME</rights>
   <author>
     <name>maratonIME</name>
@@ -116,8 +116,40 @@ mais elegíveis ou por não serem de alunos da USP.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/detailscore.html&quot;&gt;Placar&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/stat.html&quot;&gt;Estatísticas&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015.pdf&quot;&gt;Prova&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf&quot;&gt;Comentários sobre os problemas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.zip&quot;&gt;Entradas e saídas dos problemas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-comentarios.pdf&quot;&gt;Comentários sobre os problemas&lt;/a&gt; (incompleto)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/~maratona/assets/post_files/2015-08-18-resultados-seletiva/seletiva_2015-in-out.bz2&quot;&gt;Entradas e saídas dos problemas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/media/set/?set=a.907386099342104.1073741838.609146922499358&amp;amp;type=3&quot;&gt;Fotos da competição&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;times-que-competiram-por-vaga&quot;&gt;Times que competiram por vaga&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sua Mãe&lt;/strong&gt;: Giovana Gomes Delfino, Yan Soares Couto, Gabriel Fernandes;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Filhos de Turing&lt;/strong&gt;: Victor Sena Molero, Nathan Benedetto Proença, Bruno Pasqualotto Cavalar;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Carteado&lt;/strong&gt;: Victor de Oliveira Colombo, Marcelo Tadeu de Sá Oliveira Sales, Ramon Silva de Lima;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;NoStyle&lt;/strong&gt;: Ian Elmôr Lang, Ricardo Lira da Fonseca, Rodrigo Vidal Zobaran;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Polimeros&lt;/strong&gt;: Lucas Moreira Santos, Victor Aliende da Matta, Luis Gustavo Bitencourt Almeida;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nao é a São Silvestre?&lt;/strong&gt;: Gabriel de Russo, Vinicius Agostini, Germano Neuenfeld;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Kerberos&lt;/strong&gt;: Gustavo Chicato Wandeur, Gustavo Henrique Muriel Zanon, Leonardo Pereira Macedo;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;UINDOUS&lt;/strong&gt;: Felipe Valencia de Almeida, Andrea Erina Komo, Lucas Kogachi;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Thread&lt;/strong&gt;: Rodrigo Ribeiro Santos de Carvalho, Matheus Tavares Bernardino, Lucas Seiki Oshiro;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ThunderMaratona&lt;/strong&gt;: Douglas Mitsuo Yamada Yoshida, Tiago Koji Castro Shibata, Sadi Kneipp Neto;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Favo 10110&lt;/strong&gt;: Lucas Magno Dantas Ramos, Leonardo dos Reis Gama, Gabriel Tiago Galdino;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;using pants;&lt;/strong&gt;: Gabriel Griep, Luis Fernando Wadt Assis, Marcos Santos Alfieri;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gun’s N Codes&lt;/strong&gt;: Víctor de Sousa Lamarca, Rodrigo Anjos de Souza, Thomas Palmeira Ferraz;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Batatá&lt;/strong&gt;: Renato Cordeiro Ferreira, Mateus Barros Rodrigues, Lucas Dário;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Agora vai&lt;/strong&gt;: Wagner Ferreira Alves, Daniel Quadros de Miranda, Pedro Alves de Medeiros Scocco.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;times-que-no-competiram-por-vaga&quot;&gt;Times que não competiram por vaga&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;All Clear&lt;/strong&gt;: Robert Alonso Choque Aduviri, Joel Edu Castro Sanchez, Grover Enrique Guzman Castro;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Decarona&lt;/strong&gt;: Ivan Henrique Petrin, Mateus Bellomo, Matheus Ataide;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Centozebra Impalatriz&lt;/strong&gt;: Gustavo Spelzon Caparica, Bruno de Oliveira Endo, José Young Rodrigues;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Facens&lt;/strong&gt;: Lucas Alessandro de Oliveira Soares, Guilherme Antunes Romani, André Breda Carneiro;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tempestade de Ozz&lt;/strong&gt;: Juliano Maia da Cruz Leite, Leandro Müller Domingues, Raul Alves da Cunha Silveira Gioielli;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;NullPointerException&lt;/strong&gt;: Marcelo Baiano Pastorino Trylesinski, Natanel Magalhães Cardoso;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;UFABC&lt;/strong&gt;: Alexandre Gonzalez Tanaka, José Thiago dos Santos Moreira, Gabriel Durynek.&lt;/li&gt;
 &lt;/ul&gt;
 </summary>
       <id>http://www.ime.usp.br/~maratona/default/2015/08/18/resultados-seletiva/</id>
@@ -158,7 +190,7 @@ Este evento é parte das classificatórias regionais para as finais mundiais do 
 Para poder se inscrever, seu time deve ser elegível pelos &lt;a href=&quot;http://maratona.ime.usp.br/regras15.html&quot;&gt;critérios da SBC&lt;/a&gt;. Os times são formados por três alunos que deverão ter iniciado seus estudos universitários no ano de 2011 ou posterior e ter nascido no ano de 1992 ou posterior.&lt;br /&gt;
 Boa sorte!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/~maratona/assets/img/final-mundial-2015.jpg&quot; alt=&quot;Final Mundial 2015 Marrocos&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/~maratona/assets/post_files/2015-06-23-inscricoes-seletiva/final-mundial-2015.jpg&quot; alt=&quot;Final Mundial 2015 Marrocos&quot; /&gt;&lt;/p&gt;
 </summary>
       <id>http://www.ime.usp.br/~maratona/seletiva-2015</id>
       <updated>2015-06-23T18:44:00-03:00</updated>
