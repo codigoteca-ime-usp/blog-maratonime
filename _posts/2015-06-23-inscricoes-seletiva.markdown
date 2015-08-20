@@ -25,12 +25,12 @@ Este evento é parte das classificatórias regionais para as finais mundiais do 
 ## A Seletiva
 Este ano, a seletiva tem o apoio e patrocínio de:
 
-[<img src="{{ site.baseurl }}/assets/img/caelum.png" style="width:30%; height:30%">](http://www.caelum.com.br/)
-[<img src="{{ site.baseurl }}/assets/img/tecsinapse.png" style="width:30%; height:30%">](http://www.tecsinapse.com.br/)
-[<img src="{{ site.baseurl }}/assets/img/tfg.png" style="width:30%; height:30%">](http://www.tfgco.com/)
+[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/caelum.png" style="width:30%; height:30%">](http://www.caelum.com.br/)
+[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/tecsinapse.png" style="width:30%; height:30%">](http://www.tecsinapse.com.br/)
+[<img src="{{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/tfg.png" style="width:30%; height:30%">](http://www.tfgco.com/)
 
 Serão classificados para a Maratona da SBC cinco times seguindo o seguinte critério: Os três melhores times se classificam, depois deles, o melhor time ainda não classificado formado somente por pessoas do primeiro ou segundo ano da graduação e, depois, o melhor time ainda não classificado formado somente por alunos do primeiro ano de graduação.  
 Para poder se inscrever, seu time deve ser elegível pelos [critérios da SBC](http://maratona.ime.usp.br/regras15.html). Os times são formados por três alunos que deverão ter iniciado seus estudos universitários no ano de 2011 ou posterior e ter nascido no ano de 1992 ou posterior.  
 Boa sorte!
 
-![Final Mundial 2015 Marrocos]({{ site.baseurl }}/assets/img/final-mundial-2015.jpg)
+![Final Mundial 2015 Marrocos]({{ site.baseurl }}/assets/post_files/2015-06-23-inscricoes-seletiva/final-mundial-2015.jpg)
