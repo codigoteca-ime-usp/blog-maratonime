@@ -12,7 +12,7 @@ mais elegíveis ou por não serem de alunos da USP.
 
 
 ## Times classificados
-- Carteado
+- Carteado (mudou nome para Canário Cardeal)
 - Sua Mãe
 - Filhos de Turing
 - ThunderMaratona (vaga para alunos do primeiro ou segundo ano)
